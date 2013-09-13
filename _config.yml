@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Shuo Chang
+description:      Home page of Shuo Chang
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Shuo Chang
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          schang@cs.umn.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:    https://twitter.com/schang8000    
+  facebook:       http://www.facebook.com/schang8000
   github:         
   stackexchange:  
   linkedin:       
@@ -34,16 +34,15 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Research
+    url: /research
+  - title: Photos
+    url: http://500px.com/ShuoChang
     external: true
 
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Minneapolis
 future:      true
 pygments:    true
 markdown:    kramdown
